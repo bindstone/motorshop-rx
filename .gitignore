@@ -1,0 +1,13 @@
+# INTELLIJ
+.idea
+*.iml
+
+# JAVA
+target
+
+# NODEJS
+node_modules
+
+# Test Data...
+dataprovider/data/parc*.*
+dataprovider/data/description-des-donnees-exportees-vers-opendata-v.1.6.pdf
